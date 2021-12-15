@@ -1,4 +1,4 @@
-![logo](https://gitee.com/yh0608/img/raw/master/%E8%98%91%E8%8F%87.svg)
+![logo](pics/蘑菇.svg)
 
 # Mario - 在线Hive练习平台
 
